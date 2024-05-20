@@ -17,7 +17,7 @@ if __name__ == "__main__":
     Parent2 = Parent(student2, "Deshapriya Dabare", "0776458392")
 
     # Create instances of Address
-    address1 = address(student1, "562/D6,Jayanthi Mawatha","Anuradhapura")
+    address1 = address(student1, "562/D6,Jayanthi Mawatha","Anuradhapura","50000")
 
     # Printing information
     print(student1.get_student_info())
