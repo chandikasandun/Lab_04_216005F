@@ -18,7 +18,7 @@ if __name__ == "__main__":
 
     # Create instances of Address
     address1 = address(student1, "562/D6,Jayanthi Mawatha","Anuradhapura","50000")
-
+    address2 = address(student2, "356/1,Radawana, Gampaha, 11254)
     # Printing information
     print(student1.get_student_info())
     print(school1.get_school_info())
